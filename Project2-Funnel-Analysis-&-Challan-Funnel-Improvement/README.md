@@ -11,6 +11,6 @@
 - Improved overall conversion rates.
 
 **Deliverables**:
-- [Funnel analysis scripts](analysis-scripts)
-- [Data visualizations](visuals)
-- [Funnel report](reports)
+- Funnel analysis scripts
+- Data visualizations
+- Funnel report
